@@ -3,7 +3,7 @@
 {
   "latest_version": "1.1.2",
   "min_supported_version": "1.1.2",
-  "apk_bundle_version": "2026-02-19",
+  "apk_bundle_version": "2024-04-06",
   "message": "Hay una nueva versión disponible. Actualiza para continuar.",
   "download_url": "https://mydatapca.s3.us-east-2.amazonaws.com/recurson/NuovoEnroll.exe",
   "published_at": "2026-02-19"
